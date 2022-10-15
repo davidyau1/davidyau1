@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Yau</h1>
-<h3 align="center">A passionate developer enjoys problems solving and creating soulutions</h3>
+<h3 align="center">A passionate developer enjoys overcoming challenges and creating solutions</h3>
 
 - 🌱 I’m currently learning **ML, Functional Programming and Cloud**
 
-- 👨‍💻 All of my projects are available at [https://davidyau1.hashnode.dev/](https://davidyau1.hashnode.dev/)
+- 👨‍💻 All of my projects are available at [https://davidyau1.github.io](https://davidyau1.github.io)
 
-- 📝 I regularly write articles on [https://davidyau1.github.io](https://davidyau1.github.io)
+- 📝 I regularly write articles on [https://davidyau1.hashnode.dev/](https://davidyau1.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
