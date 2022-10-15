@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Yau</h1>
-<h3 align="center">A passionate developer enjoys overcoming challenges and creating solutions</h3>
+<h3 align="center">A passionate developer who enjoys problem solving, overcoming challenges and creating solutions</h3>
 
 - 🌱 I’m currently learning **ML, Functional Programming and Cloud**
 
